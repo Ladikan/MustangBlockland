@@ -1,0 +1,3 @@
+Title: Mustbot
+Author: Mustang
+Mustang's trusty client-sided bot.
